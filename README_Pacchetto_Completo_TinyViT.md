@@ -27,7 +27,7 @@ PACCHETTO_CONSEGNA/
 ├── Giustificazione_Scientifica_TinyViT.pdf  # Motivazione scientifica del progetto
 ├── presentazione_pechakucha.pdf             # Presentazione finale (formato PechaKucha - 20 slide)
 ├── presentazione_pechakucha.pptx            # Presentazione modificabile in PowerPoint
-├── Rapporto_TinyViT.pdf                     # Report sintetico (4-6 pagine)
+├── Rapporto_TinyViT.pdf                     # Report sintetico
 ```
 
 ## Dipendenze principali
